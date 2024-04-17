@@ -33,8 +33,6 @@ body{
 .col-1 {
     flex: 0 0 auto;
     width: 8.33333333%;
-    color: darkgoldenrod;
-    background-color: aqua;
 }
 
 .col-2 {
@@ -184,18 +182,14 @@ body{
 }
 
 .item-1{
-    background-color: darkgoldenrod;
-    color: greenyellow;
-
+    background-color: blue;
+    color: black;
 }
 .item-2{
-    background-color: black;
-    color: greenyellow
-
+    background-color: white;
+    color: black;
 }
 .item-3{
-    background-color: red;
-    color: greenyellow
-
+    background-color: green;
+    color: black;
 }
-
