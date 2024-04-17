@@ -191,7 +191,7 @@ body{
 .item-1{
     background-color: darkorange;
     color: black;
-    font-family: "Agency FB";
+    font-family: "Agency FB", Arial, sans-serif;;
     text-align: center;
     font-size: 40px;
     font-weight: bold;
@@ -199,7 +199,7 @@ body{
 .item-2{
     background-color: dimgrey;
     color: black;
-    font-family: "Agency FB";
+    font-family: "Agency FB", Arial, sans-serif;;
     text-align: center;
     font-size: 40px;
     font-weight: bold;
@@ -207,7 +207,7 @@ body{
 .item-3{
     background-color: cyan;
     color: black;
-    font-family: "Agency FB";
+    font-family: "Agency FB", Arial, sans-serif;;
     text-align: center;
     font-size: 40px;
     font-weight: bold;
