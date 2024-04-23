@@ -118,99 +118,127 @@ body{
 .col-auto {
     flex: 0 0 auto;
     width: auto;
+    height: 200px;
 }
 
 .col-1 {
     flex: 0 0 auto;
     width: 8.33333333%;
     height: 200px;
+
 }
 
 .col-2 {
     flex: 0 0 auto;
     width: 16.66666667%;
     height: 200px;
+
 }
 
 .col-3 {
     flex: 0 0 auto;
     width: 25%;
     height: 200px;
+
 }
 
 .col-4 {
     flex: 0 0 auto;
     width: 33.33333333%;
     height: 200px;
+
 }
 
 .col-5 {
     flex: 0 0 auto;
     width: 41.66666667%;
+    height: 200px;
 }
 
 .col-6 {
     flex: 0 0 auto;
     width: 50%;
     height: 200px;
+
 }
 
 .col-7 {
     flex: 0 0 auto;
     width: 58.33333333%;
+    height: 200px;
 }
 
 .col-8 {
     flex: 0 0 auto;
     width: 66.66666667%;
+    height: 200px;
 }
 
 .col-9 {
     flex: 0 0 auto;
     width: 75%;
+    height: 200px;
 }
 
 .col-10 {
     flex: 0 0 auto;
     width: 83.33333333%;
+    height: 200px;
 }
 
 .col-11 {
     flex: 0 0 auto;
     width: 91.66666667%;
+    height: 200px;
 }
 
 .col-12 {
     flex: 0 0 auto;
     width: 100%;
+    height: 200px;
 }
 
 
 
 
 .item-1{
-    background-color: darkorange;
+    background-color: lawngreen;
     color: black;
     font-family: "Agency FB", Arial, sans-serif;;
     text-align: center;
     font-size: 40px;
     font-weight: bold;
+
+
 }
 .item-2{
-    background-color: dimgrey;
+    background-color: red;
     color: black;
     font-family: "Agency FB", Arial, sans-serif;;
     text-align: center;
     font-size: 40px;
     font-weight: bold;
+
+
 }
 .item-3{
-    background-color: cyan;
+    background-color: blue;
     color: black;
     font-family: "Agency FB", Arial, sans-serif;;
     text-align: center;
     font-size: 40px;
     font-weight: bold;
-}
 
+
+}
+h2{
+    text-align: center;
+    font-family: "Agency FB";
+
+}
+.col-4.item-1,
+.col-4.item-2,
+.col-4.item-3 {
+    height: 200px !important;
+}
 
